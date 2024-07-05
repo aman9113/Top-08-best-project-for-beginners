@@ -4,6 +4,6 @@ Here are the top 10 beginner projects to learn HTML, CSS, and JavaScript. ( Rest
 
 Follow me https://github.com/aman9113
 
-Show some ❤❤❤ by starring some of the repositories!
+Show some ❤❤ by starring some of the repositories!
 
 
