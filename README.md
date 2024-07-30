@@ -4,14 +4,14 @@ Welcome to the **Top-10-best-project-for-beginners** repository! This collection
 
 ## Projects List
 
-## 1. split landing page
-## 2. FAQ collapse
-## 3. sound board
-## 4. speech text reader
-## 5. exchange rate calculator
-## 6. parallax landing page
-## 7. infinite scroll posts
-## 8. promo code
+**1. split landing page**
+**2. FAQ collapse**
+**3. sound board**
+**4. speech text reader**
+**5. exchange rate calculator**
+**6. parallax landing page**
+**7. infinite scroll posts**
+**8. promo code**
 
 ## Getting Started
 
