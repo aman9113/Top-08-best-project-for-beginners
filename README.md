@@ -1,18 +1,17 @@
-# Top-10-best-project-for-beginners
+# Top-8-best-project-for-beginners
 
 Welcome to the **Top-10-best-project-for-beginners** repository! This collection is designed to help beginners get hands-on experience with HTML, CSS, and JavaScript through ten exciting and educational projects.
 
 ## Projects List
 
-001-split landing page
-002-FAQ collapse
-003-sound board
-004-speech text reader
-005-exchange rate calculator
-007-infinite scroll posts
-008-promo code
-009-Comming Soon
-010-Comming Soon
+1. split landing page
+2. FAQ collapse
+3. sound board
+4. speech text reader
+5. exchange rate calculator
+6. parallax landing page
+7. infinite scroll posts
+8. promo code
 
 ## Getting Started
 
