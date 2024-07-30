@@ -20,7 +20,7 @@ Welcome to the **Top-10-best-project-for-beginners** repository! This collection
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Top-10-best-project-for-beginners.git
+   git clone https://github.com/aman9113/Top-10-best-project-for-beginners.git
    ```
 
 2. Navigate to the project directory:
@@ -45,7 +45,4 @@ This project is licensed under the MIT License.
 
 Happy coding!
 
----
-
-Feel free to adjust the text as needed!
 
