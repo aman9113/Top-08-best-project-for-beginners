@@ -1,25 +1,18 @@
 # Top-10-best-project-for-beginners
 
-Sure! Here's a concise README file for a project repository titled "Top-10-best-project-for-beginners" using HTML, CSS, and JavaScript:
-
----
-
-# Top-10-best-project-for-beginners
-
 Welcome to the **Top-10-best-project-for-beginners** repository! This collection is designed to help beginners get hands-on experience with HTML, CSS, and JavaScript through ten exciting and educational projects.
 
 ## Projects List
 
-1. **Personal Portfolio**
-2. **Responsive Landing Page**
-3. **Todo List App**
-4. **Interactive Quiz**
-5. **Weather App**
-6. **Calculator**
-7. **Digital Clock**
-8. **Photo Gallery**
-9. **Recipe App**
-10. **Simple Blog**
+001-split landing page
+002-FAQ collapse
+003-sound board
+004-speech text reader
+005-exchange rate calculator
+007-infinite scroll posts
+008-promo code
+009-Comming Soon
+010-Comming Soon
 
 ## Getting Started
 
