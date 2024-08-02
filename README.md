@@ -1,4 +1,4 @@
-# Top-8-best-project-for-beginn
+# Top-8-best-project-for-begin
 
 Welcome to the **Top-08-best-project-for-beginners** repository! This collection is designed to help beginners get hands-on experience with HTML, CSS, and JavaScript through ten exciting and educational projects.
 
