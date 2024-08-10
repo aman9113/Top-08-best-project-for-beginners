@@ -6,8 +6,14 @@ Welcome to the **Top-08-best-project-for-beginners** repository! This collection
 
 # Project Features
 
-
-
+1. **Split Landing Page**
+2. **FAQ Collapse**
+3. **Sound Board**
+4. **Speech Text Reader**
+5. **Exchange Rate Calculator**
+6. **Parallax Landing Page**
+7. **Infinite Scroll Posts**
+8. **Promo Code**
 
 ## Getting Started
 
